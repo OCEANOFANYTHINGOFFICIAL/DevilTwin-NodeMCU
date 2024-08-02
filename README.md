@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="60%" align="center" src="https://oceanofanythingofficial.github.io/DevilTwin-NodeMCU/src/Thumbnail.png"/>
+    <img width="100%" align="center" src="https://oceanofanythingofficial.github.io/DevilTwin-NodeMCU/src/Thumbnail.png"/>
 	<br>
     <div align="center">
       <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/OCEANOFANYTHINGOFFICIAL/DevilTwin-NodeMCU?style=flat">
@@ -17,7 +17,7 @@
 
 # DevilTwin NodeMCU
 
-An evil twin attack is a spoofing cyberattack that works by tricking users into connecting to a fake Wi-Fi access point that mimics a legitimate network. Once a user is connected to an “evil twin” network, hackers can access everything from their network traffic to private login credentials.
+An evil twin attack is a spoofing cyber attack that works by tricking users into connecting to a fake Wi-Fi access point that mimics a legitimate network. Once a user is connected to an “evil twin” network, hackers can access everything from their network traffic to private login credentials.
 
 ## About This Project
 
